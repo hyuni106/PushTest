@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "590863424218",
+    "firebase_url": "https://pushtest-195fb.firebaseio.com",
+    "project_id": "pushtest-195fb",
+    "storage_bucket": "pushtest-195fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590863424218:android:5a9912d770b2e4ff",
+        "android_client_info": {
+          "package_name": "kr.co.tjeit.pushtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590863424218-5r5372u5vfuru325fnns1mj7kj5v92vf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNj20AT6yJ_01Qw6FX7aammau6QIEq80Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
